@@ -11,6 +11,7 @@ import (
 	"os"
 
 	"github.com/google/uuid"
+	_ "github.com/lib/pq"
 )
 
 // Modelo (Struct)
