@@ -1,3 +1,5 @@
+// go get github.com/lib/pq
+
 // Pacote
 package main
 
